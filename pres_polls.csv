@@ -1,0 +1,671 @@
+Day,State,Region,EV,Dem,GOP,Date,Pollster
+275.5,Alabama,South,9,37,57,3-Oct,Auburn U. at Montgomery-4
+210.5,Alabama,South,9,36,58,2-Aug,Morning Consult-10
+187.5,Alabama,South,9,41,55,9-Jul,Auburn U. at Montgomery-8
+36,Alabama,South,9,38,58,6-Feb,Mason-Dixon-3
+273.5,Alaska,West,3,46,50,4-Oct,Alaska Survey Research-10
+205.5,Alaska,West,3,44,50,24-Jul,PPP-2
+189.5,Alaska,West,3,45,48,8-Jul,PPP-2
+182,Alaska,West,3,48,49,7-Jul,Alaska Survey Research-15
+284.5,Arizona,West,11,50,46,14-Oct,Ipsos-8
+280.5,Arizona,West,11,49,46,11-Oct,Morning Consult-10
+279.5,Arizona,West,11,49,43,7-Oct,Redfield and Wilton Strategies-4
+277,Arizona,West,11,48,46,7-Oct,Ipsos-9
+276,Arizona,West,11,49,41,3-Oct,Siena Coll.-3
+276,Arizona,West,11,48,45,6-Oct,Latino Decisions-9
+275.5,Arizona,West,11,46,45,5-Oct,High Ground Inc.-8
+272,Arizona,West,11,50,46,30-Sep,Suffolk U.-5
+270.5,Arizona,West,11,49,45,29-Sep,Strategies 360-6
+268.5,Arizona,West,11,47,44,26-Sep,Redfield and Wilton Strategies-4
+261.5,Arizona,West,11,48,49,20-Sep,Langer Research-6
+258,Arizona,West,11,47,42,16-Sep,Redfield and Wilton Strategies-5
+258,Arizona,West,11,47,46,17-Sep,Ipsos-7
+257,Arizona,West,11,48,46,15-Sep,Monmouth U.-5
+256.5,Arizona,West,11,49,40,15-Sep,Siena Coll.-6
+254,Arizona,West,11,47,44,11-Sep,YouGov-3
+253,Arizona,West,11,52,42,10-Sep,OH Predictive Insights-3
+249.5,Arizona,West,11,45,40,13-Sep,Kaiser/Cook-16
+246.5,Arizona,West,11,48,47,8-Sep,Benenson Strategy/GS Strategy-12
+245.5,Arizona,West,11,48,43,4-Sep,Redfield and Wilton Strategies-6
+243.5,Arizona,West,11,49,40,1-Sep,Fox News-4
+238.5,Arizona,West,11,52,42,30-Aug,Morning Consult-10
+230,Arizona,West,11,47,38,18-Aug,Redfield and Wilton Strategies-3
+222,Arizona,West,11,53,47,10-Aug,Emerson Coll.-3
+216.5,Arizona,West,11,49,45,4-Aug,OH Predictive Insights-2
+203.5,Arizona,West,11,49,42,26-Jul,Morning Consult-10
+203,Arizona,West,11,46,38,23-Jul,Redfield and Wilton Strategies-5
+203,Arizona,West,11,49,45,24-Jul,SSRS-7
+200,Arizona,West,11,50,45,22-Jul,Marist Coll.-9
+199.5,Arizona,West,11,49,45,18-Jul,PPP-2
+190.5,Arizona,West,11,46,46,10-Jul,YouGov-4
+188.5,Arizona,West,11,49,44,7-Jul,OH Predictive Insights-2
+167.5,Arizona,West,11,43,39,17-Jun,Redfield and Wilton Strategies-4
+166,Arizona,West,11,49,45,15-Jun,Civiqs-3
+164,Arizona,West,11,48,41,16-Jun,Siena Coll.-9
+152.5,Arizona,West,11,46,42,2-Jun,Fox News-4
+141,Arizona,West,11,47,45,22-May,High Ground Inc.-5
+133,Arizona,West,11,45,41,14-May,Redfield and Wilton Strategies-5
+131,Arizona,West,11,50,43,11-May,OH Predictive Insights-3
+98.5,Arizona,West,11,52,43,8-Apr,OH Predictive Insights-2
+72.5,Arizona,West,11,46,43,14-Mar,Monmouth U.-4
+72.5,Arizona,West,11,47,46,15-Mar,Marist Coll.-6
+68.5,Arizona,West,11,50,42,11-Mar,Latino Decisions-6
+63.5,Arizona,West,11,49,43,4-Mar,OH Predictive Insights-2
+62.5,Arizona,West,11,48,47,3-Mar,PPP-2
+44,Arizona,West,11,42,46,15-Feb,Climate Nexus-5
+3,Arizona,West,11,46,46,4-Jan,PPP-3
+161.5,Arkansas,South,6,45,47,10-Jun,Hendrix Coll.-2
+271,California,West,55,59,32,28-Sep,SurveyUSA-3
+264,California,West,55,62,28,21-Sep,Redfield and Wilton Strategies-3
+256,California,West,55,67,28,15-Sep,U. of Calif. at Berkeley-7
+252.5,California,West,55,60,31,13-Sep,Public Policy Inst. of Calif.-10
+225,California,West,55,56,28,12-Aug,SurveyUSA-1
+222,California,West,55,61,25,9-Aug,Redfield and Wilton Strategies-1
+206,California,West,55,67,28,27-Jul,U.C. Berkeley-7
+142.5,California,West,55,57,33,26-May,Public Policy Inst. of Calif.-10
+139.5,California,West,55,58,30,19-May,SurveyUSA-2
+129.5,California,West,55,65,35,9-May,Emerson Coll.-2
+88.5,California,West,55,67,29,29-Mar,PPP-2
+58.5,California,West,55,62,26,2-Mar,AtlasIntel-8
+58,California,West,55,59,31,28-Feb,YouGov-3
+55,California,West,55,60,35,26-Feb,SSRS-5
+53.5,California,West,55,58,31,25-Feb,U. of California-6
+45.5,California,West,55,57,37,16-Feb,SurveyUSA-4
+39,California,West,55,60,30,15-Feb,YouGov-15
+15,California,West,55,59,35,16-Jan,SurveyUSA-3
+280.5,Colorado,West,9,54,40,11-Oct,Morning Consult-10
+277.5,Colorado,West,9,50,40,6-Oct,SurveyUSA-6
+246,Colorado,West,9,50,40,5-Sep,Fabrizio Ward/Hart Research-7
+238.5,Colorado,West,9,51,41,30-Aug,Morning Consult-10
+205.5,Colorado,West,9,54,41,24-Jul,PPP-2
+203.5,Colorado,West,9,52,39,26-Jul,Morning Consult-10
+181.5,Colorado,West,9,56,39,30-Jun,PPP-2
+130,Colorado,West,9,53,40,11-May,Global Strategy-5
+105.5,Colorado,West,9,53,35,19-Apr,Montana State U.-10
+48,Colorado,West,9,46,43,19-Feb,Climate Nexus-5
+142.5,Connecticut,North East,7,52,32,24-May,SurveyUSA-6
+123,Connecticut,North East,7,56,33,4-May,Quinnipiac U.-5
+89,Connecticut,North East,7,47,34,3-Apr,Sacred Heart U.-11
+63.5,Connecticut,North East,7,52,36,12-Mar,Sacred Heart U.-18
+2,D.C.,South,3,93,4,2-Jan,Election 2016-1
+268,Delaware,South,3,54,33,27-Sep,U. of Delaware-7
+234.5,Delaware,South,3,58,37,22-Aug,PPP-2
+17.5,Delaware,South,3,56,40,19-Jan,Gonzales Research-4
+285.5,Florida,South,29,49,47,12-Oct,St. Pete polls-2
+285,Florida,South,29,51,48,12-Oct,Emerson Coll.-3
+284.5,Florida,South,29,49,47,14-Oct,Ipsos-8
+284,Florida,South,29,51,47,11-Oct,Florida Atlantic U.-3
+283.5,Florida,South,29,47,40,12-Oct,Clearview Research-6
+280.5,Florida,South,29,51,46,11-Oct,Morning Consult-10
+280,Florida,South,29,48,46,8-Oct,RMG Research-5
+279,Florida,South,29,49,44,6-Oct,Redfield and Wilton Strategies-3
+277,Florida,South,29,51,40,5-Oct,Quinnipiac U.-5
+277,Florida,South,29,49,45,7-Oct,Ipsos-9
+276.5,Florida,South,29,45,45,4-Oct,Suffolk U.-4
+276.5,Florida,South,29,51,45,4-Oct,U. of North Florida-4
+274.5,Florida,South,29,47,42,1-Oct,Siena Coll.-2
+273.5,Florida,South,29,50,44,2-Oct,St. Leo University-6
+268,Florida,South,29,48,43,25-Sep,Redfield and Wilton Strategies-3
+265.5,Florida,South,29,50,47,22-Sep,St. Pete polls-2
+261.5,Florida,South,29,47,51,20-Sep,Langer Research-6
+260.5,Florida,South,29,48,46,18-Sep,YouGov-4
+257.5,Florida,South,29,47,47,16-Sep,Ipsos-6
+257,Florida,South,29,47,44,14-Sep,Redfield and Wilton Strategies-3
+255.5,Florida,South,29,50,50,12-Sep,Florida Atlantic U.-2
+255.5,Florida,South,29,50,45,13-Sep,Monmouth U.-4
+251.5,Florida,South,29,50,47,8-Sep,St. Pete polls-2
+249.5,Florida,South,29,43,42,13-Sep,Kaiser/Cook-16
+247.5,Florida,South,29,48,46,8-Sep,Benenson Strategy/GS Strategy-10
+247,Florida,South,29,48,48,6-Sep,Marist Coll.-7
+245,Florida,South,29,47,44,3-Sep,Redfield and Wilton Strategies-5
+243,Florida,South,29,48,45,1-Sep,Quinnipiac U.-5
+238.5,Florida,South,29,49,47,30-Aug,Morning Consult-10
+236.5,Florida,South,29,50,43,26-Aug,Opinium-6
+234.5,Florida,South,29,48,44,22-Aug,PPP-2
+229,Florida,South,29,49,41,16-Aug,Redfield and Wilton Strategies-1
+204,Florida,South,29,43,43,23-Jul,Zogby Analytics-3
+203.5,Florida,South,29,50,46,23-Jul,Mason Dixon-4
+203.5,Florida,South,29,49,46,26-Jul,Morning Consult-10
+203,Florida,South,29,51,46,24-Jul,SSRS-7
+202,Florida,South,29,48,41,21-Jul,Redfield and Wilton Strategies-3
+200,Florida,South,29,51,38,20-Jul,Quinnipiac U.-5
+195.5,Florida,South,29,50,44,14-Jul,St. Pete polls-2
+190.5,Florida,South,29,48,42,10-Jul,YouGov-4
+173.5,Florida,South,29,49,40,23-Jun,Fox News-4
+166.5,Florida,South,29,45,41,15-Jun,Redfield and Wilton Strategies-2
+165,Florida,South,29,47,41,18-Jun,Siena Coll.-11
+162,Florida,South,29,51,40,11-Jun,TIPP-3
+147.5,Florida,South,29,48,47,27-May,St. Pete Polls-2
+145,Florida,South,29,47,44,30-May,Cygnal-13
+133,Florida,South,29,45,43,14-May,Redfield and Wilton Strategies-5
+131,Florida,South,29,53,47,12-May,Florida Atlantic U.-5
+110.5,Florida,South,29,46,43,21-Apr,Fox News-4
+109,Florida,South,29,46,42,20-Apr,Quinnipiac U.-5
+107.5,Florida,South,29,48,48,17-Apr,St. Pete Polls-2
+93,Florida,South,29,46,40,4-Apr,U. of North Florida-5
+75,Florida,South,29,45,45,16-Mar,AtlasIntel-3
+69,Florida,South,29,45,48,12-Mar,Latino Decisions-7
+66,Florida,South,29,49,51,7-Mar,Florida Atlantic U.-3
+45,Florida,South,29,49,48,18-Feb,U. of North Florida-9
+10.5,Florida,South,29,51,49,12-Jan,Florida Atlantic U.-4
+284,Georgia,South,16,48,46,12-Oct,SurveyUSA-5
+284,Georgia,South,16,51,44,12-Oct,Quinnipiac U.-5
+282.5,Georgia,South,16,47,46,9-Oct,PPP-2
+280.5,Georgia,South,16,47,49,11-Oct,Morning Consult-10
+275.5,Georgia,South,16,46,48,6-Oct,U. of Georgia.-10
+271.5,Georgia,South,16,50,47,29-Sep,Civiqs-4
+269,Georgia,South,16,50,47,27-Sep,Quinnipiac U.-5
+268.5,Georgia,South,16,45,44,26-Sep,Redfield and Wilton Strategies-4
+267.5,Georgia,South,16,46,47,25-Sep,YouGov-4
+263,Georgia,South,16,46,48,21-Sep,Monmouth U.-5
+262.5,Georgia,South,16,45,45,21-Sep,Siena Coll.-6
+259.5,Georgia,South,16,47,47,20-Sep,U. of Georgia-10
+258,Georgia,South,16,45,46,16-Sep,Redfield and Wilton Strategies-5
+246,Georgia,South,16,47,46,5-Sep,Fabrizio Ward/Hart Research-7
+238.5,Georgia,South,16,49,46,30-Aug,Morning Consult-10
+238,Georgia,South,16,52,46,30-Aug,HarrisX-11
+237.5,Georgia,South,16,47,46,25-Aug,PPP-2
+220,Georgia,South,16,46,44,8-Aug,SurveyUSA-3
+211.5,Georgia,South,16,46,45,31-Jul,YouGov-4
+207,Georgia,South,16,47,48,27-Jul,Monmouth U.-5
+205.5,Georgia,South,16,46,45,24-Jul,PPP-2
+203.5,Georgia,South,16,47,46,26-Jul,Morning Consult-10
+177.5,Georgia,South,16,49,45,26-Jun,PPP-2
+173.5,Georgia,South,16,47,45,23-Jun,Fox News-4
+164.5,Georgia,South,16,48,46,13-Jun,PPP-2
+145,Georgia,South,16,40,44,27-May,TargetSmart-7
+138,Georgia,South,16,48,47,18-May,Civiqs-3
+117,Georgia,South,16,44,45,27-Apr,Cygnal-3
+58.5,Georgia,South,16,43,51,2-Mar,U. of Georgia-8
+2,Hawaii,West,4,65,28,2-Jan,Election 2016-1
+2,Idaho,West,4,29,58,2-Jan,Election 2016-1
+268.5,Illinois,Mid West,20,53,40,26-Sep,Victory Research-4
+284.5,Indiana,Mid West,11,42,49,13-Oct,SurveyUSA-6
+210.5,Indiana,Mid West,11,38,55,2-Aug,Morning Consult-10
+143,Indiana,Mid West,11,39,49,23-May,Victoria Research-3
+102.5,Indiana,Mid West,11,39,52,13-Apr,Change Research-4
+281.5,Iowa,Mid West,6,49,49,9-Oct,YouGov-4
+278.5,Iowa,Mid West,6,48,47,6-Oct,Civiqs-4
+277,Iowa,Mid West,6,50,45,5-Oct,Quinnipiac U.-5
+268.5,Iowa,Mid West,6,48,46,26-Sep,RABA Research-4
+264,Iowa,Mid West,6,46,49,22-Sep,Monmouth U.-5
+263,Iowa,Mid West,6,45,42,22-Sep,Siena Coll.-7
+259.5,Iowa,Mid West,6,47,47,17-Sep,Selzer-4
+246,Iowa,Mid West,6,45,47,5-Sep,Fabrizio Ward/Hart Research-7
+214,Iowa,Mid West,6,46,48,3-Aug,Monmouth U.-5
+210.5,Iowa,Mid West,6,40,41,30-Jul,RMG Research-4
+205.5,Iowa,Mid West,6,47,48,24-Jul,PPP-2
+160.5,Iowa,Mid West,6,43,44,10-Jun,Selzer-4
+159,Iowa,Mid West,6,46,46,8-Jun,Civiqs-3
+155.5,Iowa,Mid West,6,47,48,4-Jun,PPP-2
+121.5,Iowa,Mid West,6,46,48,1-May,PPP-2
+63.5,Iowa,Mid West,6,41,51,5-Mar,Selzer-4
+21.5,Iowa,Mid West,6,44,46,23-Jan,Siena Coll.-4
+271.5,Kansas,Mid West,6,42,52,29-Sep,Civiqs-4
+220,Kansas,Mid West,6,41,48,9-Aug,SurveyUSA-5
+218.5,Kansas,Mid West,6,43,50,6-Aug,PPP-2
+152,Kansas,Mid West,6,40,52,1-Jun,Civiqs-3
+70.5,Kansas,Mid West,6,40,52,11-Mar,PPP-2
+33.5,Kansas,Mid West,6,43,51,6-Feb,DFM Research-8
+256,Kentucky,South,8,38,58,14-Sep,Quinnipiac U.-5
+214,Kentucky,South,8,41,50,3-Aug,Quinnipiac U.-5
+210.5,Kentucky,South,8,35,59,2-Aug,Morning Consult-10
+166,Kentucky,South,8,37,57,15-Jun,Civiqs-3
+143.5,Kentucky,South,8,36,53,24-May,RMG Research-4
+135.5,Kentucky,South,8,39,55,15-May,PPP-2
+2,Louisiana,South,8,38,58,2-Jan,Election 2016-1
+273.5,Maine,North East,4,51,40,4-Oct,Critical Insights-10
+264,Maine,North East,4,50,39,23-Sep,Colby Coll.-7
+262.5,Maine,North East,4,51,39,20-Sep,Suffolk U.-4
+257.5,Maine,North East,4,55,38,16-Sep,Siena Coll.-6
+256,Maine,North East,4,59,38,14-Sep,Quinnipiac U.-5
+246,Maine,North East,4,54,40,5-Sep,Fabrizio Ward/Hart Research-7
+216,Maine,North East,4,45,38,9-Aug,Critical Insights-13
+214,Maine,North East,4,52,37,3-Aug,Quinnipiac U.-5
+212,Maine,North East,4,50,39,2-Aug,RMG Research-7
+205.5,Maine,North East,4,53,42,24-Jul,PPP-2
+203,Maine,North East,4,50,38,24-Jul,Colby College-7
+184.5,Maine,North East,4,53,42,3-Jul,PPP-2
+62.5,Maine,North East,4,52,42,3-Mar,PPP-2
+276,Maryland,South,10,61,30,4-Oct,Goucher College-5
+251.5,Maryland,South,10,62,30,11-Sep,OpinionWorks-8
+142,Maryland,South,10,59,35,23-May,Gonzales Research-5
+47,Maryland,South,10,60,35,19-Feb,Goucher Coll.-7
+239,Massachusetts,North East,11,69,31,27-Aug,Emerson Coll.-3
+220.5,Massachusetts,North East,11,63,27,9-Aug,MassINC-4
+216.5,Massachusetts,North East,11,61,28,7-Aug,YouGov-8
+200.5,Massachusetts,North East,11,55,23,20-Jul,MassINC-4
+126.5,Massachusetts,North East,11,67,33,6-May,Emerson Coll.-2
+120,Massachusetts,North East,11,58,30,1-May,U. of Mass.-5
+96.5,Massachusetts,North East,11,69,31,7-Apr,Emerson Coll.-4
+284,Michigan,Mid West,16,48,39,12-Oct,EPIC-MRA-5
+284,Michigan,Mid West,16,51,43,13-Oct,Ipsos-7
+282.5,Michigan,Mid West,16,48,40,11-Oct,Siena Coll.-6
+281.5,Michigan,Mid West,16,52,46,9-Oct,YouGov-4
+280.5,Michigan,Mid West,16,54,43,7-Oct,Emerson Coll.-2
+280.5,Michigan,Mid West,16,51,44,11-Oct,Morning Consult-10
+279,Michigan,Mid West,16,50,42,6-Oct,Redfield and Wilton Strategies-3
+278,Michigan,Mid West,16,50,43,8-Oct,Baldwin Wallace U.-9
+276.5,Michigan,Mid West,16,51,43,6-Oct,Ipsos-8
+275.5,Michigan,Mid West,16,48,39,3-Oct,Glengariff Group-4
+274.5,Michigan,Mid West,16,50,44,1-Oct,PPP-2
+268.5,Michigan,Mid West,16,51,42,26-Sep,Redfield and Wilton Strategies-4
+265,Michigan,Mid West,16,52,44,23-Sep,Marist Coll.-5
+260.5,Michigan,Mid West,16,46,41,19-Sep,Marketing Resource Grp.-6
+259.5,Michigan,Mid West,16,51,45,21-Sep,YouGov-12
+259,Michigan,Mid West,16,50,42,22-Sep,Baldwin Wallace U.-15
+257.5,Michigan,Mid West,16,49,44,16-Sep,Ipsos-6
+257,Michigan,Mid West,16,49,39,14-Sep,Redfield and Wilton Strategies-3
+257,Michigan,Mid West,16,53,42,15-Sep,Civiqs-5
+256.5,Michigan,Mid West,16,48,40,15-Sep,EPIC-MRA-6
+246.5,Michigan,Mid West,16,53,44,3-Sep,Pulse Opinion Research-2
+246.5,Michigan,Mid West,16,50,43,8-Sep,Benenson Strategy/GS Strategy-12
+246,Michigan,Mid West,16,47,42,3-Sep,Glengariff Group-3
+245,Michigan,Mid West,16,51,40,3-Sep,Redfield and Wilton Strategies-5
+241.5,Michigan,Mid West,16,48,44,29-Aug,PPP-2
+238.5,Michigan,Mid West,16,52,42,30-Aug,Morning Consult-10
+230,Michigan,Mid West,16,50,38,18-Aug,Redfield and Wilton Strategies-3
+228,Michigan,Mid West,16,49,46,17-Aug,Civiqs-5
+214,Michigan,Mid West,16,47,43,6-Aug,YouGov-11
+210.5,Michigan,Mid West,16,49,43,29-Jul,PPP-2
+209.5,Michigan,Mid West,16,51,40,30-Jul,EPIC-MRA-6
+204.5,Michigan,Mid West,16,48,42,24-Jul,YouGov-4
+203.5,Michigan,Mid West,16,49,37,24-Jul,Redfield and Wilton Strategies-6
+203.5,Michigan,Mid West,16,52,42,26-Jul,Morning Consult-10
+203,Michigan,Mid West,16,52,40,24-Jul,SSRS-7
+201,Michigan,Mid West,16,49,40,20-Jul,Fox News-3
+191.5,Michigan,Mid West,16,51,44,10-Jul,PPP-2
+178.5,Michigan,Mid West,16,50,44,27-Jun,PPP-2
+167,Michigan,Mid West,16,47,36,16-Jun,Redfield and Wilton Strategies-3
+164.5,Michigan,Mid West,16,47,36,17-Jun,Siena Coll.-10
+162.5,Michigan,Mid West,16,51,38,12-Jun,TIPP-4
+155.5,Michigan,Mid West,16,50,35,7-Jun,Kiaer Research-8
+153,Michigan,Mid West,16,53,41,3-Jun,EPIC-MRA-5
+150.5,Michigan,Mid West,16,50,44,30-May,PPP-2
+139.5,Michigan,Mid West,16,51,45,19-May,PPP-2
+133,Michigan,Mid West,16,47,39,14-May,Redfield and Wilton Strategies-5
+119.5,Michigan,Mid West,16,50,42,29-Apr,PPP-2
+111.5,Michigan,Mid West,16,51,44,21-Apr,PPP-2
+110.5,Michigan,Mid West,16,49,41,21-Apr,Fox News-4
+108.5,Michigan,Mid West,16,46,38,20-Apr,Ipsos-6
+81,Michigan,Mid West,16,47,42,25-Mar,Baldwin Wallace U.-9
+78,Michigan,Mid West,16,44,41,20-Mar,Marketing Resource-5
+68,Michigan,Mid West,16,44,46,9-Mar,AtlasIntel-3
+67,Michigan,Mid West,16,45,41,8-Mar,YouGov-3
+66.5,Michigan,Mid West,16,48,41,8-Mar,Monmouth U.-4
+46.5,Michigan,Mid West,16,46,43,20-Feb,YouGov-10
+46,Michigan,Mid West,16,47,43,18-Feb,Quinnipiac U.-7
+43,Michigan,Mid West,16,43,43,18-Feb,Expedition Strategies-13
+10.5,Michigan,Mid West,16,50,44,12-Jan,EPIC-MRA-4
+5,Michigan,Mid West,16,50,43,7-Jan,Glengariff-5
+280.5,Minnesota,Mid West,10,50,44,11-Oct,Morning Consult-10
+277.5,Minnesota,Mid West,10,47,40,6-Oct,SurveyUSA-6
+266,Minnesota,Mid West,10,48,42,23-Sep,Mason Dixon-3
+266,Minnesota,Mid West,10,47,40,24-Sep,Suffolk U.-5
+258.5,Minnesota,Mid West,10,51,42,17-Sep,Redfield and Wilton Strategies-6
+254.5,Minnesota,Mid West,10,57,41,13-Sep,Langer Research-6
+254,Minnesota,Mid West,10,50,41,11-Sep,YouGov-3
+253,Minnesota,Mid West,10,50,41,10-Sep,Siena Coll.-3
+252.5,Minnesota,Mid West,10,48,44,13-Sep,Morning Consult-10
+249.5,Minnesota,Mid West,10,49,40,7-Sep,SurveyUSA-4
+247.5,Minnesota,Mid West,10,52,44,4-Sep,PPP-2
+238.5,Minnesota,Mid West,10,50,43,30-Aug,Morning Consult-10
+222,Minnesota,Mid West,10,51,49,10-Aug,Emerson Coll.-3
+204.5,Minnesota,Mid West,10,52,42,23-Jul,PPP-2
+203.5,Minnesota,Mid West,10,47,44,26-Jul,Morning Consult-10
+201,Minnesota,Mid West,10,51,38,20-Jul,Fox News-3
+140,Minnesota,Mid West,10,49,44,20-May,Mason-Dixon Polling-3
+58,Mississippi,South,6,41,56,28-Feb,Mason-Dixon-3
+274.5,Missouri,Mid West,10,43,52,7-Oct,YouGov-14
+260.5,Missouri,Mid West,10,45,53,17-Sep,Missouri Scout-2
+246,Missouri,Mid West,10,44,49,3-Sep,We Ask America-3
+179,Missouri,Mid West,10,43,50,1-Jul,YouGov-9
+147.5,Missouri,Mid West,10,44,48,27-May,We Ask America-2
+57.5,Missouri,Mid West,10,42,52,27-Feb,Remington Research-2
+283.5,Montana,West,3,46,52,10-Oct,PPP-2
+280,Montana,West,3,43,56,7-Oct,Emerson Coll.-3
+267,Montana,West,3,44,51,2-Oct,Montana State U.-19
+259,Montana,West,3,42,49,16-Sep,Siena Coll.-3
+246,Montana,West,3,43,50,5-Sep,Fabrizio Ward/Hart Research-7
+214,Montana,West,3,42,53,2-Aug,Emerson Coll.-3
+205.5,Montana,West,3,45,50,24-Jul,PPP-2
+194,Montana,West,3,45,49,13-Jul,Civiqs-3
+191.5,Montana,West,3,42,51,10-Jul,PPP-2
+173.5,Montana,West,3,38,52,26-Jun,U. of Montana-10
+109.5,Montana,West,3,40,45,27-Apr,Montana State U.-18
+48,Montana,West,3,34,46,22-Feb,U. of Montana-11
+2,Nebraska,Mid West,5,33,61,2-Jan,Election 2016-1
+281.5,Nevada,West,6,52,46,9-Oct,YouGov-4
+278,Nevada,West,6,48,42,6-Oct,Siena Coll.-5
+265.5,Nevada,West,6,52,41,23-Sep,Fox News-4
+261.5,Nevada,West,6,46,41,25-Sep,U. of Nevada-16
+253,Nevada,West,6,46,42,10-Sep,Siena Coll.-3
+238,Nevada,West,6,44,39,30-Aug,U. of Nevada-11
+51,Nevada,West,6,44,41,21-Feb,AtlasIntel-3
+6.5,Nevada,West,6,47,39,8-Jan,Fox News-4
+284.5,New Hampshire,North East,4,55,43,12-Oct,U. of New Hampshire-4
+284,New Hampshire,North East,4,51,41,12-Oct,Suffolk U.-5
+276.5,New Hampshire,North East,4,53,41,4-Oct,St. Anselm Coll.-4
+274.5,New Hampshire,North East,4,53,45,1-Oct,Emerson Coll.-2
+270.5,New Hampshire,North East,4,53,44,28-Sep,ARG-4
+270,New Hampshire,North East,4,53,44,28-Sep,U. of New Hampshire-5
+268,New Hampshire,North East,4,56,42,25-Sep,Pulse Opinion Research-3
+265,New Hampshire,North East,4,53,44,25-Sep,U. of Mass.-9
+253.5,New Hampshire,North East,4,45,42,11-Sep,Siena Coll.-4
+229,New Hampshire,North East,4,51,43,17-Aug,St. Anselm Coll.-3
+204,New Hampshire,North East,4,53,40,28-Jul,U. of New Hampshire-13
+172,New Hampshire,North East,4,52,39,22-Jun,U. of New Hampshire-5
+166.5,New Hampshire,North East,4,49,42,16-Jun,St. Anselm College-4
+137,New Hampshire,North East,4,44,46,18-May,U. of New Hampshire-5
+116,New Hampshire,North East,4,50,42,27-Apr,St. Anselm College-5
+53,New Hampshire,North East,4,44,46,25-Feb,U. of New Hampshire-7
+40,New Hampshire,North East,4,44,46,10-Feb,AtlasIntel-3
+21.5,New Hampshire,North East,4,51,43,23-Jan,Marist Coll.-4
+276.5,New Jersey,North East,14,53,38,5-Oct,Fairleigh Dickinson U.-6
+249.5,New Jersey,North East,14,58,40,7-Sep,Emerson Coll.-4
+222,New Jersey,North East,14,52,33,13-Aug,DKC Analytics-9
+191.5,New Jersey,North East,14,51,33,12-Jul,DKC Analytics-6
+123,New Jersey,North East,14,54,35,4-May,Quinnipiac U.-5
+118,New Jersey,North East,14,56,33,2-May,Rutgers-Eagleton-11
+108.5,New Jersey,North East,14,54,38,19-Apr,Monmouth U.-4
+45,New Jersey,North East,14,53,35,16-Feb,Fairleigh Dickinson U.-5
+274.5,New Mexico,West,5,53,39,1-Oct,PPP-2
+242.5,New Mexico,West,5,54,39,2-Sep,Research and Polling-8
+164.5,New Mexico,West,5,53,39,13-Jun,PPP-2
+111.5,New Mexico,West,5,52,40,21-Apr,PPP-2
+4.5,New Mexico,West,5,54,46,6-Jan,Emerson Coll.-4
+272,New York,North East,29,61,29,29-Sep,Siena Coll.-3
+234.5,New York,North East,29,63,32,22-Aug,PPP-2
+176,New York,North East,29,57,32,25-Jun,Siena Coll.-3
+140,New York,North East,29,57,32,21-May,Siena Coll.-5
+123,New York,North East,29,55,32,4-May,Quinnipiac U.-5
+112,New York,North East,29,65,29,23-Apr,Siena Coll.-5
+84,New York,North East,29,58,33,26-Mar,Siena Coll.-5
+49,New York,North East,29,55,36,20-Feb,Siena Coll.-5
+285,North Carolina,South,15,46,42,13-Oct,Siena Coll.-5
+284,North Carolina,South,15,48,47,13-Oct,Ipsos-7
+283.5,North Carolina,South,15,50,45,11-Oct,SurveyUSA-4
+283.5,North Carolina,South,15,50,46,11-Oct,Monmouth U.-4
+280.5,North Carolina,South,15,50,46,11-Oct,Morning Consult-10
+279,North Carolina,South,15,49,44,6-Oct,Redfield and Wilton Strategies-3
+278.5,North Carolina,South,15,50,46,5-Oct,PPP-2
+277,North Carolina,South,15,50,47,4-Oct,East Carolina U.-3
+276.5,North Carolina,South,15,47,47,6-Oct,Ipsos-8
+268.5,North Carolina,South,15,47,45,26-Sep,Redfield and Wilton Strategies-4
+267.5,North Carolina,South,15,48,46,25-Sep,YouGov-4
+265.5,North Carolina,South,15,48,49,25-Sep,U. of Mass.-8
+264,North Carolina,South,15,46,45,22-Sep,Meredith Coll.-5
+262.5,North Carolina,South,15,44,45,20-Sep,Harper Polling-4
+261,North Carolina,South,15,51,49,18-Sep,Emerson Coll.-3
+257.5,North Carolina,South,15,47,45,15-Sep,Redfield and Wilton Strategies-4
+257.5,North Carolina,South,15,45,44,16-Sep,Siena Coll.-6
+257.5,North Carolina,South,15,47,47,16-Sep,Ipsos-6
+256.5,North Carolina,South,15,47,43,14-Sep,Suffolk U.-4
+255,North Carolina,South,15,47,47,13-Sep,SurveyUSA-5
+255,North Carolina,South,15,49,46,13-Sep,SSRS-5
+251.5,North Carolina,South,15,48,49,8-Sep,Pulse Opinion Research-2
+249.5,North Carolina,South,15,45,43,13-Sep,Kaiser/Cook-16
+246.5,North Carolina,South,15,48,48,8-Sep,Benenson Strategy/GS Strategy-12
+245,North Carolina,South,15,43,44,3-Sep,Redfield and Wilton Strategies-5
+243.5,North Carolina,South,15,48,46,1-Sep,Monmouth U.-4
+243.5,North Carolina,South,15,50,46,1-Sep,Fox News-4
+242.5,North Carolina,South,15,47,49,30-Aug,East Carolina U.-2
+238.5,North Carolina,South,15,49,47,30-Aug,Morning Consult-10
+231.5,North Carolina,South,15,49,46,23-Aug,Morning Consult-10
+229.5,North Carolina,South,15,44,46,17-Aug,Redfield and Wilton Strategies-2
+225.5,North Carolina,South,15,47,47,13-Aug,East Carolina U.-2
+222,North Carolina,South,15,49,51,10-Aug,Emerson Coll.-3
+221,North Carolina,South,15,45,44,10-Aug,Harper Polling-5
+219.5,North Carolina,South,15,47,48,7-Aug,Pulse Opinion Research-2
+212.5,North Carolina,South,15,49,46,31-Jul,PPP-2
+211.5,North Carolina,South,15,48,44,31-Jul,YouGov-4
+205.5,North Carolina,South,15,49,46,24-Jul,PPP-2
+204,North Carolina,South,15,44,40,23-Jul,Zogby Analytics-3
+203.5,North Carolina,South,15,47,47,26-Jul,Morning Consult-10
+202,North Carolina,South,15,43,42,21-Jul,Redfield and Wilton Strategies-3
+200,North Carolina,South,15,51,44,22-Jul,Marist Coll.-9
+189.5,North Carolina,South,15,50,46,8-Jul,PPP-2
+175.5,North Carolina,South,15,45,44,25-Jun,East Carolina U.-4
+174.5,North Carolina,South,15,48,46,23-Jun,PPP-2
+173.5,North Carolina,South,15,47,45,23-Jun,Fox News-4
+167.5,North Carolina,South,15,46,40,17-Jun,Redfield and Wilton Strategies-4
+165,North Carolina,South,15,49,40,18-Jun,Siena Coll.-11
+154.5,North Carolina,South,15,49,45,3-Jun,PPP-2
+148,North Carolina,South,15,44,47,28-May,Harper Polling-3
+137.5,North Carolina,South,15,42,42,21-May,Neighborhood Research and Media-10
+133,North Carolina,South,15,45,43,14-May,Redfield and Wilton Strategies-5
+132,North Carolina,South,15,47,47,13-May,Meeting Street Insights-5
+129,North Carolina,South,15,43,46,9-May,East Carolina University-3
+124,North Carolina,South,15,49,46,4-May,Civiqs-3
+118.5,North Carolina,South,15,47,40,28-Apr,Meredith College-2
+115.5,North Carolina,South,15,50,45,26-Apr,SurveyUSA-4
+111.5,North Carolina,South,15,49,46,21-Apr,PPP-2
+105.5,North Carolina,South,15,48,47,15-Apr,PPP-2
+97,North Carolina,South,15,42,49,7-Apr,Harper Polling-3
+58.5,North Carolina,South,15,48,46,28-Feb,East Carolina U.-2
+56,North Carolina,South,15,45,49,27-Feb,Marist Coll.-5
+48,North Carolina,South,15,46,44,19-Feb,Climate Nexus-5
+45.5,North Carolina,South,15,45,49,16-Feb,WRAL-TV-4
+45.5,North Carolina,South,15,49,45,16-Feb,SurveyUSA-4
+64,North Dakota,Mid West,3,38,55,5-Mar,DFM Research-3
+30,North Dakota,Mid West,3,38,57,1-Feb,DFM Research-5
+284,Ohio,Mid West,18,48,47,12-Oct,Quinnipiac U.-5
+280.5,Ohio,Mid West,18,46,49,11-Oct,Morning Consult-10
+278,Ohio,Mid West,18,45,44,6-Oct,Siena Coll.-5
+278,Ohio,Mid West,18,45,47,8-Oct,Baldwin Wallace U.-9
+275,Ohio,Mid West,18,47,47,2-Oct,YouGov-3
+265.5,Ohio,Mid West,18,50,45,23-Sep,Fox News-4
+263,Ohio,Mid West,18,48,47,21-Sep,Quinnipiac U.-5
+259,Ohio,Mid West,18,45,44,22-Sep,Baldwin Wallace U.-15
+257,Ohio,Mid West,18,45,48,15-Sep,Civiqs-5
+245.5,Ohio,Mid West,18,51,47,2-Sep,Pulse Opinion Research-2
+238.5,Ohio,Mid West,18,45,50,30-Aug,Morning Consult-10
+228,Ohio,Mid West,18,47,47,17-Aug,Civiqs-5
+213,Ohio,Mid West,18,47,46,3-Aug,TargetSmart-7
+204.5,Ohio,Mid West,18,45,46,24-Jul,YouGov-4
+204,Ohio,Mid West,18,43,41,23-Jul,Zogby Analytics-3
+203.5,Ohio,Mid West,18,45,48,26-Jul,Morning Consult-10
+197.5,Ohio,Mid West,18,50,46,16-Jul,Pulse Opinion Research-2
+186.5,Ohio,Mid West,18,46,42,15-Jul,U. of Akron-22
+172,Ohio,Mid West,18,46,45,22-Jun,Quinnipiac U.-5
+152.5,Ohio,Mid West,18,45,43,2-Jun,Fox News-4
+130,Ohio,Mid West,18,49,51,10-May,Emerson Coll.-3
+113.5,Ohio,Mid West,18,45,44,25-Apr,Baldwin Wallace U.-6
+81,Ohio,Mid West,18,43,47,25-Mar,Baldwin Wallace U.-9
+72.5,Ohio,Mid West,18,49,45,15-Mar,Marist Coll.-6
+249,Oklahoma,South,7,35,60,8-Sep,Sooner Poll-7
+155.5,Oklahoma,South,7,36,55,4-Jun,Amber Integrated-2
+66.5,Oklahoma,South,7,33,57,8-Mar,Amber Integrated-4
+42.5,Oklahoma,South,7,34,62,13-Feb,Cole Hargrave Snodgrass-4
+271.5,Oregon,West,7,56,39,29-Sep,Civiqs-4
+249.5,Oregon,West,7,51,39,8-Sep,DHM Research-6
+283.5,Pennsylvania,North East,20,49,43,12-Oct,RMG Research-6
+282.5,Pennsylvania,North East,20,51,44,11-Oct,Ipsos-6
+280.5,Pennsylvania,North East,20,52,44,11-Oct,Morning Consult-10
+279,Pennsylvania,North East,20,49,42,6-Oct,Redfield and Wilton Strategies-3
+278.5,Pennsylvania,North East,20,50,45,5-Oct,Emerson Coll.-2
+278,Pennsylvania,North East,20,50,45,8-Oct,Baldwin Wallace U.-9
+277,Pennsylvania,North East,20,54,41,5-Oct,Quinnipiac U.-5
+276,Pennsylvania,North East,20,54,43,4-Oct,Monmouth U.-5
+276,Pennsylvania,North East,20,50,45,5-Oct,Ipsos-7
+275,Pennsylvania,North East,20,49,42,2-Oct,Siena Coll.-3
+275,Pennsylvania,North East,20,51,44,2-Oct,YouGov-3
+270,Pennsylvania,North East,20,49,40,27-Sep,Siena Coll.-3
+269,Pennsylvania,North East,20,50,45,26-Sep,TIPP-3
+268,Pennsylvania,North East,20,50,44,25-Sep,Redfield and Wilton Strategies-3
+267.5,Pennsylvania,North East,20,54,45,26-Sep,Langer Research-6
+265.5,Pennsylvania,North East,20,51,44,23-Sep,Fox News-4
+261,Pennsylvania,North East,20,48,42,20-Sep,Franklin+Marshall Coll.-7
+259.5,Pennsylvania,North East,20,49,45,21-Sep,YouGov-12
+259,Pennsylvania,North East,20,47,45,22-Sep,Baldwin Wallace U.-15
+257.5,Pennsylvania,North East,20,49,46,16-Sep,Ipsos-6
+257,Pennsylvania,North East,20,49,44,14-Sep,Redfield and Wilton Strategies-3
+257,Pennsylvania,North East,20,52,45,15-Sep,Civiqs-5
+253.5,Pennsylvania,North East,20,48,43,11-Sep,Climate Nexus-4
+248.5,Pennsylvania,North East,20,51,44,6-Sep,TargetSmart-4
+247.5,Pennsylvania,North East,20,53,44,7-Sep,Marist Coll.-8
+246.5,Pennsylvania,North East,20,49,46,8-Sep,Benenson Strategy/GS Strategy-12
+245,Pennsylvania,North East,20,48,43,3-Sep,Redfield and Wilton Strategies-5
+243,Pennsylvania,North East,20,52,44,1-Sep,Quinnipiac U.-5
+242.5,Pennsylvania,North East,20,49,46,31-Aug,Monmouth U.-4
+239,Pennsylvania,North East,20,48,48,27-Aug,Pulse Opinion Research-3
+238.5,Pennsylvania,North East,20,49,45,30-Aug,Morning Consult-10
+233,Pennsylvania,North East,20,49,42,23-Aug,Franklin+Marshall Coll.-7
+229.5,Pennsylvania,North East,20,48,41,17-Aug,Redfield and Wilton Strategies-2
+228,Pennsylvania,North East,20,51,44,17-Aug,Civiqs-5
+227,Pennsylvania,North East,20,49,45,17-Aug,Muhlenberg Coll.-7
+222,Pennsylvania,North East,20,53,47,10-Aug,Emerson Coll.-3
+218.5,Pennsylvania,North East,20,49,43,7-Aug,YouGov-4
+205,Pennsylvania,North East,20,50,41,26-Jul,Franklin+Marshall Coll.-7
+204,Pennsylvania,North East,20,44,43,23-Jul,Zogby Analytics-3
+203.5,Pennsylvania,North East,20,50,42,26-Jul,Morning Consult-10
+202,Pennsylvania,North East,20,48,41,21-Jul,Redfield and Wilton Strategies-3
+201,Pennsylvania,North East,20,50,39,20-Jul,Fox News-3
+197.5,Pennsylvania,North East,20,51,46,16-Jul,Pulse Opinion Research-2
+193,Pennsylvania,North East,20,52,42,13-Jul,Monmouth U.-5
+167,Pennsylvania,North East,20,49,39,16-Jun,Redfield and Wilton Strategies-3
+164,Pennsylvania,North East,20,50,40,16-Jun,Siena Coll.-9
+133,Pennsylvania,North East,20,48,39,14-May,Redfield and Wilton Strategies-5
+114.5,Pennsylvania,North East,20,49,43,26-Apr,Harper Polling-6
+111.5,Pennsylvania,North East,20,51,44,21-Apr,PPP-2
+110.5,Pennsylvania,North East,20,50,42,21-Apr,Fox News-4
+108.5,Pennsylvania,North East,20,46,40,20-Apr,Ipsos-6
+81,Pennsylvania,North East,20,45,46,25-Mar,Baldwin Wallace U.-9
+67,Pennsylvania,North East,20,46,40,8-Mar,YouGov-3
+47,Pennsylvania,North East,20,47,47,20-Feb,Muhlenberg Coll.-9
+46.5,Pennsylvania,North East,20,46,45,20-Feb,YouGov-10
+46,Pennsylvania,North East,20,50,42,18-Feb,Quinnipiac U.-7
+43,Pennsylvania,North East,20,47,42,18-Feb,Expedition Strategies-13
+2,Rhode Island,North East,4,55,40,2-Jan,Election 2016-1
+280.5,South Carolina,South,9,42,54,11-Oct,Morning Consult-10
+269,South Carolina,South,9,47,48,27-Sep,Quinnipiac U.-5
+267.5,South Carolina,South,9,42,52,25-Sep,YouGov-4
+259.5,South Carolina,South,9,44,50,20-Sep,Morning Consult-10
+256,South Carolina,South,9,45,51,14-Sep,Quinnipiac U.-5
+214,South Carolina,South,9,42,47,3-Aug,Quinnipiac U.-5
+210.5,South Carolina,South,9,44,49,2-Aug,Morning Consult-10
+145.5,South Carolina,South,9,42,52,26-May,Civiqs-4
+60.5,South Carolina,South,9,48,52,2-Mar,Emerson Coll.-4
+57.5,South Carolina,South,9,42,48,28-Feb,AtlasIntel-4
+32,South Carolina,South,9,40,52,2-Feb,East Carolina U.-3
+2,South Dakota,Mid West,3,32,62,2-Jan,Election 2016-1
+134.5,Tennessee,South,11,42,51,22-May,SSRS-18
+117.5,Tennessee,South,11,36,53,1-May,East Tennessee State U.-10
+29,Tennessee,South,11,39,55,30-Jan,Mason-Dixon-3
+281.5,Texas,South,38,50,49,8-Oct,PPP-2
+280.5,Texas,South,38,47,49,11-Oct,Morning Consult-10
+279.5,Texas,South,38,44,51,6-Oct,Pulse Opinion Research-2
+278.5,Texas,South,38,48,48,6-Oct,Civiqs-4
+273.5,Texas,South,38,45,50,4-Oct,YouGov-10
+269.5,Texas,South,38,48,48,26-Sep,PPP-2
+265.5,Texas,South,38,46,50,25-Sep,U. of Mass.-8
+263,Texas,South,38,45,50,21-Sep,Quinnipiac U.-5
+263,Texas,South,38,43,46,22-Sep,Siena Coll.-7
+260.5,Texas,South,38,46,48,18-Sep,YouGov-4
+245.5,Texas,South,38,47,48,2-Sep,PPP-2
+243.5,Texas,South,38,46,48,2-Sep,U. of Texas-6
+238.5,Texas,South,38,47,48,30-Aug,Morning Consult-10
+234.5,Texas,South,38,48,47,22-Aug,PPP-2
+221.5,Texas,South,38,41,48,13-Aug,YouGov-10
+210.5,Texas,South,38,47,46,2-Aug,Morning Consult-10
+203.5,Texas,South,38,47,45,26-Jul,Morning Consult-10
+200,Texas,South,38,45,44,20-Jul,Quinnipiac U.-5
+190.5,Texas,South,38,45,46,10-Jul,YouGov-4
+185,Texas,South,38,48,43,7-Jul,U. of Texas-9
+176.5,Texas,South,38,48,46,25-Jun,PPP-2
+176,Texas,South,38,44,48,29-Jun,YouGov-11
+173.5,Texas,South,38,45,44,23-Jun,Fox News-4
+170.5,Texas,South,38,46,48,19-Jun,PPP-2
+155.5,Texas,South,38,48,48,4-Jun,PPP-2
+151,Texas,South,38,43,44,1-Jun,Quinnipiac U.-5
+130,Texas,South,38,48,52,10-May,Emerson Coll.-3
+118.5,Texas,South,38,47,46,28-Apr,PPP-2
+113.5,Texas,South,38,43,43,27-Apr,U. of Texas-10
+105.5,Texas,South,38,44,49,19-Apr,YouGov-10
+58.5,Texas,South,38,43,47,2-Mar,AtlasIntel-8
+56,Texas,South,38,45,49,27-Feb,Marist Coll.-5
+55,Texas,South,38,48,47,26-Feb,SSRS-5
+52.5,Texas,South,38,44,45,26-Feb,U. of Texas-10
+35.5,Texas,South,38,43,47,9-Feb,YouGov-10
+25.5,Texas,South,38,44,46,30-Jan,U. of Texas-10
+18.5,Texas,South,38,40,54,21-Jan,Data for Progress-6
+14.5,Texas,South,38,46,51,19-Jan,Texas Lyceum-10
+274,Utah,West,6,40,50,4-Oct,Y2 Analytics-9
+253.5,Utah,West,6,35,53,12-Sep,RMG Research-6
+211.5,Utah,West,6,31,50,1-Aug,RMG Research-6
+133,Utah,West,6,41,44,15-May,Y2 Analytics-7
+85.5,Utah,West,6,41,46,30-Mar,Y2 Analytics-10
+18.5,Utah,West,6,31,49,22-Jan,RMG Research-8
+253,Vermont,North East,3,56,32,15-Sep,Braun Research-13
+259,Virginia,South,13,48,43,21-Sep,Christopher Newport U.-13
+246,Virginia,South,13,53,39,7-Sep,Virginia Commonwealth U.-11
+228.5,Virginia,South,13,53,39,22-Aug,Roanoke Coll.-14
+203.5,Virginia,South,13,52,41,26-Jul,Morning Consult-10
+197,Virginia,South,13,50,39,19-Jul,Virginia Commonwealth U.-9
+130.5,Virginia,South,13,51,39,16-May,Roanoke Coll.-14
+92,Virginia,South,13,51,41,8-Apr,Virginia Commonwealth U.-15
+57.5,Virginia,South,13,45,38,28-Feb,Hampton University-4
+44.5,Virginia,South,13,48,40,18-Feb,Roanoke Coll.-10
+284,Washington,West,12,55,34,12-Oct,SurveyUSA-5
+255,Washington,West,12,58,36,14-Sep,Strategies 360-7
+206.5,Washington,West,12,62,28,27-Jul,SurveyUSA-6
+140.5,Washington,West,12,59,37,20-May,PPP-2
+138.5,Washington,West,12,57,31,19-May,SurveyUSA-4
+94,Washington,West,12,52,39,6-Apr,EMC Research-7
+65,Washington,West,12,57,34,6-Mar,SurveyUSA-3
+277.5,West Virginia,South,5,39,53,6-Oct,Research America Inc.-6
+273.5,West Virginia,South,5,38,56,30-Sep,Triton Polling and Res.-2
+283.5,Wisconsin,Mid West,10,51,41,11-Oct,Siena Coll.-4
+282.5,Wisconsin,Mid West,10,51,44,11-Oct,Ipsos-6
+280.5,Wisconsin,Mid West,10,51,44,11-Oct,Morning Consult-10
+279.5,Wisconsin,Mid West,10,51,41,7-Oct,Redfield and Wilton Strategies-4
+278,Wisconsin,Mid West,10,49,43,8-Oct,Baldwin Wallace U.-9
+276,Wisconsin,Mid West,10,47,42,4-Oct,Marquette Law School-5
+276,Wisconsin,Mid West,10,50,44,5-Oct,Ipsos-7
+269,Wisconsin,Mid West,10,48,43,27-Sep,Redfield and Wilton Strategies-5
+266,Wisconsin,Mid West,10,54,44,24-Sep,Marist Coll.-5
+259.5,Wisconsin,Mid West,10,50,46,21-Sep,YouGov-12
+259,Wisconsin,Mid West,10,50,41,22-Sep,Baldwin Wallace U.-15
+258,Wisconsin,Mid West,10,47,41,16-Sep,Redfield and Wilton Strategies-5
+257.5,Wisconsin,Mid West,10,48,43,16-Sep,Ipsos-6
+257,Wisconsin,Mid West,10,51,44,15-Sep,Civiqs-5
+255,Wisconsin,Mid West,10,52,42,13-Sep,SSRS-5
+254.5,Wisconsin,Mid West,10,52,46,13-Sep,Langer Research-6
+253,Wisconsin,Mid West,10,48,43,10-Sep,Siena Coll.-3
+251,Wisconsin,Mid West,10,51,44,8-Sep,Emerson Coll.-3
+249.5,Wisconsin,Mid West,10,50,43,10-Sep,Morning Consult-10
+247,Wisconsin,Mid West,10,50,44,4-Sep,YouGov-3
+246.5,Wisconsin,Mid West,10,50,45,8-Sep,Benenson Strategy/GS Strategy-12
+245.5,Wisconsin,Mid West,10,51,43,2-Sep,Pulse Opinion Research-2
+245.5,Wisconsin,Mid West,10,50,41,4-Sep,Redfield and Wilton Strategies-6
+245,Wisconsin,Mid West,10,48,44,3-Sep,Marquette Law School-5
+243.5,Wisconsin,Mid West,10,50,42,1-Sep,Fox News-4
+238.5,Wisconsin,Mid West,10,52,43,30-Aug,Morning Consult-10
+237.5,Wisconsin,Mid West,10,53,40,28-Aug,Opinium-8
+230.5,Wisconsin,Mid West,10,49,39,19-Aug,Redfield and Wilton Strategies-4
+228,Wisconsin,Mid West,10,51,45,17-Aug,Civiqs-5
+224.5,Wisconsin,Mid West,10,49,43,16-Aug,Morning Consult-10
+219.5,Wisconsin,Mid West,10,50,46,9-Aug,Marquette Law School-6
+218.5,Wisconsin,Mid West,10,55,43,6-Aug,Pulse Opinion Research-2
+218.5,Wisconsin,Mid West,10,48,42,7-Aug,YouGov-4
+203.5,Wisconsin,Mid West,10,45,35,24-Jul,Redfield and Wilton Strategies-6
+203.5,Wisconsin,Mid West,10,50,43,26-Jul,Morning Consult-10
+168.5,Wisconsin,Mid West,10,45,36,19-Jun,Redfield and Wilton Strategies-6
+168,Wisconsin,Mid West,10,51,42,18-Jun,Marquette Law School-5
+163.5,Wisconsin,Mid West,10,49,38,15-Jun,Siena Coll.-8
+152.5,Wisconsin,Mid West,10,49,40,2-Jun,Fox News-4
+133,Wisconsin,Mid West,10,48,38,14-May,Redfield and Wilton Strategies-5
+126,Wisconsin,Mid West,10,46,43,7-May,Marquette Law School-5
+111.5,Wisconsin,Mid West,10,50,45,21-Apr,PPP-2
+108.5,Wisconsin,Mid West,10,43,40,20-Apr,Ipsos-6
+86.5,Wisconsin,Mid West,10,48,45,29-Mar,Marquette Law School-6
+81,Wisconsin,Mid West,10,45,45,25-Mar,Baldwin Wallace U.-9
+70.5,Wisconsin,Mid West,10,48,45,11-Mar,PPP-2
+67,Wisconsin,Mid West,10,44,42,8-Mar,YouGov-3
+52,Wisconsin,Mid West,10,46,46,23-Feb,Marquette Law School-5
+46.5,Wisconsin,Mid West,10,45,43,20-Feb,YouGov-10
+46,Wisconsin,Mid West,10,42,49,18-Feb,Quinnipiac U.-7
+43,Wisconsin,Mid West,10,42,44,18-Feb,Expedition Strategies-13
+10,Wisconsin,Mid West,10,49,45,12-Jan,Marquette Law School-5
+6.5,Wisconsin,Mid West,10,46,41,8-Jan,Fox News-4
+2,Wyoming,West,3,23,70,2-Jan,Election 2016-1
